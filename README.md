@@ -10,7 +10,7 @@ Hier werden die offiziellen stabilen Spielversionen von Stickhold veröffentlich
 
 Öffne die gewünschte Version und lade unter **Assets** das passende Spielpaket herunter. Die von GitHub automatisch erzeugten „Source code“-Archive enthalten nur den Inhalt dieses Release-Repositories, nicht das spielbare Spiel.
 
-**Aktueller Stand:** Es wurde noch keine Spielversion veröffentlicht. Der Link zur neuesten Version funktioniert, sobald das erste stabile Release veröffentlicht ist.
+**Aktueller Stand:** Veröffentlicht ist die Testversion vom 27.09.2026 für Windows (64 Bit). Sie ist ein Entwicklungsstand zum Testen, kein fertiges Spiel; die Hinweise zum Starten stehen beim Release.
 
 ## Zweck dieses Repositories
 
